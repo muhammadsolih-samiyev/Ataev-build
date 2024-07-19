@@ -1,0 +1,140 @@
+{
+  "information": "Ma'lumotlar",
+  "about": "Biz haqimizda",
+  "enterprises": "Tadbirkorliklar",
+  "logo": "Logotip",
+  "advantages": "Bizning afzalliklarimiz",
+  "news": "Yangiliklar",
+  "communication": "Aloqa",
+  
+  "contacts": {
+    "title": "Sizda savollar, takliflar yoki so'rovlaringiz bormi?",
+    "message": "So'rovingiz muvaffaqiyatli yuborildi. Biz tez orada siz bilan bog'lanamiz.",
+    "errorMessage": "Ism qatorini to'ldiring, iltimos!",
+    "namePlaceholder": "Ismingiz *",
+    "phonePlaceholder": "Telefon raqamingiz *",
+    "textPlaceholder": "Sizning xabaringiz...",
+    "loading": "Yuborilmoqda...",
+    "send": "Yuborish"
+  },
+
+  "dream": {
+    "title": "Sizning orzu uyingiz",
+    "houseImages": {
+      "house1": "Uy 1",
+      "house2": "Uy 2",
+      "house3": "Uy 3",
+      "house4": "Uy 4",
+      "house5": "Uy 5",
+      "house6": "Uy 6"
+    }
+  },
+
+  "exchange": {
+    "title": "Hamkorlar bilan g'oyalar almashish",
+    "exchangeImages": {
+      "exchange1": "Almashish 1",
+      "exchange2": "Almashish 2",
+      "exchange3": "Almashish 3",
+      "exchange4": "Almashish 4",
+      "exchange5": "Almashish 5",
+      "exchange6": "Almashish 6"
+    }
+  },
+
+  "footer": {
+    "title": "Ijtimoiy tarmoqlarimizga obuna bo'ling",
+    "company": "Bizning kompaniya",
+    "enterprises": "Tadbirkorliklar",
+    "about": "Biz haqimizda",
+    "news": "Yangiliklar",
+    "projects": "Bizning loyihalar",
+    "communication": "Aloqa"
+  },
+
+  "info": {
+    "brandName": "ATAEV BAHODIR BUILD",
+    "brandText": "Biz faqat loyihalar yaratmaymiz, biz yangi imkoniyatlar yaratamiz. Davlat miqdoridagi obyektlarni qurib, biz kelajagni quramiz. Biz ekologiyaga e'tibor qilamiz: kompaniya binolar va infrastrukturani qurish va ishlab chiqarish bilan bog'liq ekologik jihatlarga to'liq mas'uliyatni oladi.",
+    "brandButton": "Ko'proq ma'lumot"
+  },
+
+  "main": {
+    "surname": "ATAEV",
+    "name": "BAHODIR BUILD",
+    "slogan": "Har bir narsada uning yuqori sifati",
+    "button1": "Bizning loyihalar",
+    "button2": "Aloqa"
+  },
+
+  "newsSection": {
+    "title": "Barcha yangiliklarimiz",
+    "constr": "Qurilish",
+    "newsButton": "Yangiliklar",
+    "subTitle": "Qurilish loyihalari boshqaruvi kim?",
+    "text": "Discover Invest kompaniyasida bir nechta qurilish loyihalari boshqaruvi mavjud. Bu muhandis, unga aylanib berilgan qurilish obyektining mufassal muvaffaqiyati uchun mas'ul. U to'liq jarayonni boshqaradi, loyiha hujjatlari rejalashtirish va tasdiqlash bosqichi bilan boshlab, binoni ishga tushirishga qadar, va ba'zida keyinroq loyihani qo'llab-quvvatlashni ham bajaradi.",
+    "subTitle2": "Qurilish loyihalari boshqaruvi kim?",
+    "text2": "Halol haloklar dizayni, kvartiraga kirishdan oldin xursandlik atmosferasini yaratadi, va qulay navigatsiya tizimi sizga kerakli qatorga yaqinlashish yoki hududga chiqishni oson qiladi.",
+    "subTitle3": "Joylashuv",
+    "text3": "Transport infrastrukturasining sizni shahar bo'ylab oson har yo'lga ko'chishga ruxsat beradi: siz faqat istalgan va talab qilinadigan yo'nalishni tanlashingiz kerak.",
+    "subTitle4": "Biz sizni Discover Investning ko'p funktsiyali obyektlari bilan tanishtiramiz.",
+    "text4": "Biz sizni Discover Investning ko'p funktsiyali obyektlari bilan tanishtiramiz. Ularning biri Toshkentning Yangihayot tumani ichida qurilgan Yangi Choshtepa yashil joy massivi. Umumiy qurilish maydoni 12 gektar. Bugungi kungacha 29 uy qurilgan."
+  },
+
+  "company": {
+    "title": "Bizning kompaniya",
+    "employees": "Ishchilar soni",
+    "objects": "Ob'ekt",
+    "equipment": "Maxsus jihozlar",
+    "years": "Bozorda yillar"
+  },
+
+  "projects": {
+    "title": "Sizning orzu uyingiz",
+    "houses": {
+      "house1": {
+        "name": "Majik shahar",
+        "description": "Bu katta miqdordagi ijtimoiy muhim loyiha. Toshkentdagi madaniy-melekutiy markazlardan biri yangi ajratishlar."
+      },
+      "house2": {
+        "name": "Bag'lar Turar joy",
+        "description": "O'zbekiston aholisiga qulaylik ko'rsatish uchun yaratilgan ko'p-funksiyalik yashash joyi."
+      },
+      "house3": {
+        "name": "Fonon",
+        "description": "Paytdagi poytaxtdagi katta yashil qurilish maydoni."
+      },
+      "house4": {
+        "name": "Fonon",
+        "description": "Paytdagi poytaxtdagi katta yashil qurilish maydoni."
+      },
+      "house5": {
+        "name": "Fonon",
+        "description": "Paytdagi poytaxtdagi katta yashil qurilish maydoni."
+      },
+      "house6": {
+        "name": "Fonon",
+        "description": "Paytdagi poytaxtdagi katta yashil qurilish maydoni."
+      }
+    }
+  },
+
+  "services": {
+    "title": "Bizning xizmatlarimiz",
+    "service1": {
+      "text": "Bizning kompaniya mutaxassislaridan bepul ma'lumot olishingiz mumkin",
+      "alt": "Oltin"
+    },
+    "service2": {
+      "text": "Ta'mirlashni tekshirish xizmati",
+      "alt": "Notebook"
+    },
+    "service3": {
+      "text": "Hujjatlarni rasmiylashtirish",
+      "alt": "Sozlamalar"
+    },
+    "service4": {
+      "text": "Professional jamoa",
+      "alt": "Avtomobil"
+    }
+  }
+}

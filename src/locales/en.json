@@ -1,0 +1,140 @@
+{
+  "information": "Information",
+  "about": "About Us",
+  "enterprises": "Enterprises",
+  "logo": "Logo",
+  "advantages": "Our advantages",
+  "news": "News",
+  "communication": "Communication",
+  
+  "contacts": {
+    "title": "Do you have any questions, suggestions or requests?",
+    "message": "Your request has been sent successfully. We will contact you as soon as possible.",
+    "errorMessage": "Please fill in the name input!",
+    "namePlaceholder": "Your Name *",
+    "phonePlaceholder": "Your Phone *",
+    "textPlaceholder": "Your Message...",
+    "loading": "Sending...",
+    "send": "Submit"
+  },
+
+  "dream": {
+    "title": "Your dream home",
+    "houseImages": {
+      "house1": "House 1",
+      "house2": "House 2",
+      "house3": "House 3",
+      "house4": "House 4",
+      "house5": "House 5",
+      "house6": "House 6"
+    }
+  },
+
+  "exchange": {
+    "title": "Exchange ideas with partners",
+    "exchangeImages": {
+      "exchange1": "Exchange 1",
+      "exchange2": "Exchange 2",
+      "exchange3": "Exchange 3",
+      "exchange4": "Exchange 4",
+      "exchange5": "Exchange 5",
+      "exchange6": "Exchange 6"
+    }
+  },
+
+  "footer": {
+    "title": "Subscribe to our social networks",
+    "company": "Our company",
+    "enterprises": "Enterprises",
+    "about": "About Us",
+    "news": "News",
+    "projects": "Our Projects",
+    "communication": "Communication"
+  },
+
+  "info": {
+    "brandName": "ATAEV BAHODIR BUILD",
+    "brandText": "We don't just create projects, we create new opportunities. By building state-scale facilities, we are building the future. We care about the environment: the company takes full responsibility for environmental aspects associated with the construction and operation of buildings and infrastructure",
+    "brandButton": "Learn More"
+  },
+
+  "main": {
+    "surname": "ATAEV",
+    "name": "BAHODIR BUILD",
+    "slogan": "Excellence in everything",
+    "button1": "Our Projects",
+    "button2": "Connection"
+  },
+
+  "newsSection": {
+    "title": "All our news",
+    "constr": "Constructor",
+    "newsButton": "News",
+    "subTitle": "Who is a construction project manager?",
+    "text": "The Discover Invest company has several construction project managers. This is a specialist responsible for the successful implementation of the construction site entrusted to him. He manages the entire process, from the planning stage and approval of project documentation to the commissioning of the building, and sometimes also performs post-project support. Latest",
+    "subTitle2": "Who is a construction project manager?",
+    "text2": "The sophisticated interior design of the halls will create an atmosphere of comfort even before entering the apartment, and a convenient navigation system will help you easily get to the floor you need or exit to the territory",
+    "subTitle3": "Location",
+    "text3": "The transport infrastructure allows you to easily move to anywhere in the city: you just have to choose the desired and desired direction.",
+    "subTitle4": "We continue to introduce you to the multifunctional objects of Discover Invest.",
+    "text4": "We continue to introduce you to the multifunctional objects of Discover Invest. One of them is the Yangi Choshtepa residential complex built in the Yangihayat district of Tashkent. The total construction area is 12 hectares. To date, 29 houses have been built."
+  },
+
+  "company": {
+    "title": "Our Company",
+    "employees": "Number of employees",
+    "objects": "Objects",
+    "equipment": "Special equipment",
+    "years": "Years on the market"
+  },
+
+  "projects": {
+    "title": "Your dream home",
+    "houses": {
+      "house1": {
+        "name": "Magic City",
+        "description": "This is a large-scale socially significant project. The cultural and entertainment cluster in Tashkent is one of the new attractions."
+      },
+      "house2": {
+        "name": "Gardens Residence",
+        "description": "Multifunctional residential complex created to provide comfort to the residents of Uzbekistan."
+      },
+      "house3": {
+        "name": "Fonon",
+        "description": "A grandiose residential area in the heart of the capital."
+      },
+      "house4": {
+        "name": "Fonon",
+        "description": "A grandiose residential area in the heart of the capital."
+      },
+      "house5": {
+        "name": "Fonon",
+        "description": "A grandiose residential area in the heart of the capital."
+      },
+      "house6": {
+        "name": "Fonon",
+        "description": "A grandiose residential area in the heart of the capital."
+      }
+    }
+  },
+
+  "services": {
+    "title": "Our services",
+    "service1": {
+      "text": "You can get free information from our company's specialists",
+      "alt": "Gold"
+    },
+    "service2": {
+      "text": "Repair correction service",
+      "alt": "Notebook"
+    },
+    "service3": {
+      "text": "Documents clearance",
+      "alt": "Settings"
+    },
+    "service4": {
+      "text": "Team of professionals",
+      "alt": "Car"
+    }
+  }
+}
